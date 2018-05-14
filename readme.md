@@ -1,3 +1,8 @@
+[PREVIEW](https://htmlpreview.github.io/?https://github.com/jeoffreydissard/Exo2-php-Les-conditions/blob/master/index.php)
+
+
+
+
 ![PHP](https://media.giphy.com/media/b5vxw9ChHZT68/giphy.gif)
 
 # PHP - Les conditions
